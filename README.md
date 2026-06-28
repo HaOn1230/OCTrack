@@ -8,7 +8,7 @@ Detailed instructions will be provided later.
 Create and activate a conda environment:
 
 ```bash
-conda create -n OCTrack python=3.8
+conda create -n OCTrack python=3.9
 conda activate OCTrack
 ```
 
